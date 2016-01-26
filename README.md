@@ -32,7 +32,8 @@ Recognize a character in the image:
     result = ocr.get_ocr_char(content, language='CHN_ENG')
 
 
-A sample implementation pls visit http://cloudesk.duapp.com/ocr/
+A sample implementation pls visit [Cloudesk.top OCR](http://cloudesk.duapp.com/ocr/)
+
 Pls use this invite code `QzWgtyK7ND` to register as an member of cloudesk. 
 
 Enjoy and cheers!
