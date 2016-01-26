@@ -25,11 +25,11 @@ Recognize all the text in the image:
 
 Recognize a line of text in the image:
 
-    result = get_ocr_line(content, language='CHN_ENG')
+    result = ocr.get_ocr_line(content, language='CHN_ENG')
 
 Recognize a character in the image:
 
-    result = get_ocr_char(content, language='CHN_ENG')
+    result = ocr.get_ocr_char(content, language='CHN_ENG')
 
 
 A sample implementation pls visit http://cloudesk.duapp.com/ocr/
